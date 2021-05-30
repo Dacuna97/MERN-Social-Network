@@ -1,11 +1,11 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 export default () => (
   <div
     style={{
       margin: 'auto',
       display: 'flex',
       justifyContent: 'center',
-      alignItems: 'center',
+      alignItems: 'center'
     }}
   >
     <i className='fa fa-spinner fa-spin fa-4x'></i>
